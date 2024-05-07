@@ -1,4 +1,4 @@
-# Decode NDIS
+# Decode NDIS (2nd Place at AI Hack 2023)
 ![Decode_NDIS](https://github.com/stephendwalley/Decode-NDIS/assets/76471970/2a44329f-28e3-40be-94b7-d37fc86c4bd3)
 
 An assistant app for NDIS participants to scan invoices and interpret activity and item text descriptions into relevant and applicable numerical NDIS codes for insurance claims.
